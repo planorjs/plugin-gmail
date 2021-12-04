@@ -1,6 +1,6 @@
 {
   "name": "planor-plugin-gmail",
-  "version": "0.0.1",
+  "version": "null",
   "description": "Planor Gmail plugin.",
   "exports": {
     ".": {
@@ -14,6 +14,7 @@
   },
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
+  "type": "module",
   "scripts": {
     "test": "for i in tests/*.js; do node \"$i\"; done",
     "build": "rollup --config rollup.config.js"
