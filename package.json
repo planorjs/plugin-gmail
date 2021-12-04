@@ -1,6 +1,6 @@
 {
   "name": "planor-plugin-gmail",
-  "version": "null",
+  "version": "1.0.0",
   "description": "Planor Gmail plugin.",
   "exports": {
     ".": {

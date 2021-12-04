@@ -1,4 +1,4 @@
-# planor-plugin-gmail
+# plugin-gmail
 Planor Gmail plugin.
 
 ## Usage
